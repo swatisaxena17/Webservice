@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GetRequest-AllTests" duration-ms="37224" started-at="2019-05-15T20:55:12Z" finished-at="2019-05-15T20:55:49Z">
+    <groups>
+    </groups>
+    <test name="My Test" duration-ms="37224" started-at="2019-05-15T20:55:12Z" finished-at="2019-05-15T20:55:49Z">
+      <class name="com.testautomation.TestRunner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner@56ac3a89]" name="setUpClass" is-config="true" duration-ms="320" started-at="2019-05-15T20:55:12Z" finished-at="2019-05-15T20:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner@56ac3a89]" name="feature" duration-ms="4496" started-at="2019-05-15T20:55:13Z" data-provider="features" finished-at="2019-05-15T20:55:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This feature is to validate Ergast API GET Request 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner@56ac3a89]" name="tearDownClass" is-config="true" duration-ms="8" started-at="2019-05-15T20:55:17Z" finished-at="2019-05-15T20:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.testautomation.TestRunner.TestRunner -->
+      <class name="com.testautomation.TestRunner.TestRunner4">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner4@6e06451e]" name="setUpClass" is-config="true" duration-ms="24" started-at="2019-05-15T20:55:21Z" finished-at="2019-05-15T20:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner4@6e06451e]" name="feature" duration-ms="11909" started-at="2019-05-15T20:55:21Z" data-provider="features" finished-at="2019-05-15T20:55:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This feature is to validate Ergast API GET Request]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner4@6e06451e]" name="tearDownClass" is-config="true" duration-ms="2" started-at="2019-05-15T20:55:33Z" finished-at="2019-05-15T20:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.testautomation.TestRunner.TestRunner4 -->
+      <class name="com.testautomation.TestRunner.TestRunner5">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner5@59494225]" name="setUpClass" is-config="true" duration-ms="16" started-at="2019-05-15T20:55:33Z" finished-at="2019-05-15T20:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner5@59494225]" name="feature" duration-ms="15680" started-at="2019-05-15T20:55:33Z" data-provider="features" finished-at="2019-05-15T20:55:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This feature is to validate Ergast API GET Request]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner5@59494225]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2019-05-15T20:55:49Z" finished-at="2019-05-15T20:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.testautomation.TestRunner.TestRunner5 -->
+      <class name="com.testautomation.TestRunner.TestRunner2">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner2@27c20538]" name="setUpClass" is-config="true" duration-ms="22" started-at="2019-05-15T20:55:17Z" finished-at="2019-05-15T20:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner2@27c20538]" name="feature" duration-ms="1790" started-at="2019-05-15T20:55:17Z" data-provider="features" finished-at="2019-05-15T20:55:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This feature is to validate POST API GET Request]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner2@27c20538]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2019-05-15T20:55:19Z" finished-at="2019-05-15T20:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.testautomation.TestRunner.TestRunner2 -->
+      <class name="com.testautomation.TestRunner.TestRunner3">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner3@72d818d1]" name="setUpClass" is-config="true" duration-ms="24" started-at="2019-05-15T20:55:19Z" finished-at="2019-05-15T20:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner3@72d818d1]" name="feature" duration-ms="2433" started-at="2019-05-15T20:55:19Z" data-provider="features" finished-at="2019-05-15T20:55:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[This feature is to validate Ergast API GET Request 3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner3@72d818d1]" name="tearDownClass" is-config="true" duration-ms="2" started-at="2019-05-15T20:55:21Z" finished-at="2019-05-15T20:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.testautomation.TestRunner.TestRunner3 -->
+    </test> <!-- My Test -->
+  </suite> <!-- GetRequest-AllTests -->
+</testng-results>
